@@ -1,14 +1,14 @@
-<h1 align="center"><b>Hi , I'm Gonzalo Ruiz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<h1 align="left"><b>Hi , I'm Gonzalo Ruiz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+👨🏻‍💻 About me
 <img align="right" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am a Systems analyst student, currently at my last year. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+I am a Systems analyst student, currently in my last year. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - Java
   - Spring boot
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎮 playing videogames, 🏋🏻 workout, 🎵 listening to music, and 📖 reading psychology books.
+- 🤝 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am glad to help<br>
+- Outside tech, 🎮I love playing videogames, 🏋🏻 working out, 🎵 listening to music, and 📖 reading psychology books.
 - 📫 Reach out to me at: <a href="gonzalorzdev@gmail.com">gonzalorzdev@gmail.com</a>
 
 ## My Skills Include
